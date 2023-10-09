@@ -19,3 +19,8 @@ github repository was not getting downloaded.
 I did not find a way to fix error, however, I used an alternative provided in the sources I read from the internet.
 The alternative is to install wget package for python and use wget.download() function to get the dataset from github repository.
 
+## Data Validation TO DO
+1. Check the data type of the columns
+2. Check if all the columns are present
+3. Check if the filename have proper extension
+
